@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Path to netcat
-NC="/bin/nc"
+NC="/usr/bin/nc"
 
 # IP di destinazione
 DEST_IP="192.168.190.11"
